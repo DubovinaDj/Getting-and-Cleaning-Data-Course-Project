@@ -16,4 +16,13 @@ Review criteria
 4. The README that explains the analysis files is clear and understandable.
 5. The work submitted for this project is the work of the student who submitted it.
 
+License
+Anyone may contribute after this assignment is turned in and graded.
 
+Blog Posts on the Specialization | John Hopkins Coursera
+
+Getting and Cleaning Data (JHU Coursera)
+
+R Programming (JHU Coursera)
+
+The Data Scientist’s Toolbox (JHU Coursera)
